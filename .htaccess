@@ -1,0 +1,5 @@
+AuthName "Bitte loggen Sie sich bei DBCLIENT ein."
+AuthType Basic
+AuthUserFile /var/www/_drupal-andreas/dbclient/.htpasswd
+AuthGroupFile /dev/null
+require user zbw globonet
